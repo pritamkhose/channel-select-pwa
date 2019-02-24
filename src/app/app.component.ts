@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { SwUpdate } from '@angular/service-worker';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'channel-select-pwa';
+
+  constructor ( updates: SwUpdate) {
+    console.log('update app Logic -->');
+    updates.available.subscribe( event => {
+      updates.activateUpdate().then(() => document.location.reload());
+    });
+  }
+
 }

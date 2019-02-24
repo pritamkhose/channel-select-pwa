@@ -1,0 +1,280 @@
+Your environment has been set up for using Node.js 8.11.2 (x64) and npm.
+
+C:\Users\Pritam>E:
+
+E:\>cd E:\Code\Java\AngularCLI\Channel-Selection
+
+E:\Code\Java\AngularCLI\Channel-Selection>ng new channel-select-pwa
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? CSS
+CREATE channel-select-pwa/angular.json (3876 bytes)
+CREATE channel-select-pwa/package.json (1317 bytes)
+CREATE channel-select-pwa/README.md (1033 bytes)
+CREATE channel-select-pwa/tsconfig.json (435 bytes)
+CREATE channel-select-pwa/tslint.json (2824 bytes)
+CREATE channel-select-pwa/.editorconfig (246 bytes)
+CREATE channel-select-pwa/.gitignore (576 bytes)
+CREATE channel-select-pwa/src/favicon.ico (5430 bytes)
+CREATE channel-select-pwa/src/index.html (303 bytes)
+CREATE channel-select-pwa/src/main.ts (372 bytes)
+CREATE channel-select-pwa/src/polyfills.ts (3694 bytes)
+CREATE channel-select-pwa/src/test.ts (642 bytes)
+CREATE channel-select-pwa/src/styles.css (80 bytes)
+CREATE channel-select-pwa/src/browserslist (388 bytes)
+CREATE channel-select-pwa/src/karma.conf.js (980 bytes)
+CREATE channel-select-pwa/src/tsconfig.app.json (166 bytes)
+CREATE channel-select-pwa/src/tsconfig.spec.json (256 bytes)
+CREATE channel-select-pwa/src/tslint.json (314 bytes)
+CREATE channel-select-pwa/src/assets/.gitkeep (0 bytes)
+CREATE channel-select-pwa/src/environments/environment.prod.ts (51 bytes)
+CREATE channel-select-pwa/src/environments/environment.ts (662 bytes)
+CREATE channel-select-pwa/src/app/app-routing.module.ts (245 bytes)
+CREATE channel-select-pwa/src/app/app.module.ts (393 bytes)
+CREATE channel-select-pwa/src/app/app.component.html (1152 bytes)
+CREATE channel-select-pwa/src/app/app.component.spec.ts (1131 bytes)
+CREATE channel-select-pwa/src/app/app.component.ts (222 bytes)
+CREATE channel-select-pwa/src/app/app.component.css (0 bytes)
+CREATE channel-select-pwa/e2e/protractor.conf.js (752 bytes)
+CREATE channel-select-pwa/e2e/tsconfig.e2e.json (213 bytes)
+CREATE channel-select-pwa/e2e/src/app.e2e-spec.ts (310 bytes)
+CREATE channel-select-pwa/e2e/src/app.po.ts (204 bytes)
+npm WARN registry Using stale data from https://registry.npmjs.org/ because the host is inaccessible -- are you offline?
+npm WARN registry Using stale package data from https://registry.npmjs.org/ due to a request error during revalidation.
+npm WARN deprecated istanbul@0.4.5: This module is no longer maintained, try this instead:
+npm WARN deprecated   npm i nyc
+npm WARN deprecated Visit https://istanbul.js.org/integrations for other alternatives.
+npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
+
+> node-sass@4.10.0 install E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\node_modules\node-sass
+> node scripts/install.js
+
+Cached binary found at C:\Users\Pritam\AppData\Roaming\npm-cache\node-sass\4.10.0\win32-x64-57_binding.node
+
+> node-sass@4.10.0 postinstall E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\node_modules\node-sass
+> node scripts/build.js
+
+Binary found at E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\node_modules\node-sass\vendor\win32-x64-57\binding.node
+Testing binary
+Binary is fine
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 1131 packages in 211.583s
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/protractor.conf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/src/app.e2e-spec.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/src/app.po.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/tsconfig.e2e.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app-routing.module.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/browserslist.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/karma.conf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/tsconfig.app.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/tsconfig.spec.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/tslint.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in tslint.json.
+The file will have its original line endings in your working directory.
+    Successfully initialized git.
+
+E:\Code\Java\AngularCLI\Channel-Selection>npm i @angular/pwa
+npm WARN saveError ENOENT: no such file or directory, open 'E:\Code\Java\AngularCLI\Channel-Selection\package.json'
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN enoent ENOENT: no such file or directory, open 'E:\Code\Java\AngularCLI\Channel-Selection\package.json'
+npm WARN Channel-Selection No description
+npm WARN Channel-Selection No repository field.
+npm WARN Channel-Selection No README data
+npm WARN Channel-Selection No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/pwa@0.13.3
+added 151 packages in 44.585s
+
+E:\Code\Java\AngularCLI\Channel-Selection>cd channel-select-pwa
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>ng add @angular/pwa
+Installing packages for tooling via npm.
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/pwa@0.13.3
+added 10 packages in 21.831s
+Installed packages for tooling via npm.
+CREATE ngsw-config.json (441 bytes)
+CREATE src/manifest.webmanifest (1093 bytes)
+CREATE src/assets/icons/icon-128x128.png (1253 bytes)
+CREATE src/assets/icons/icon-144x144.png (1394 bytes)
+CREATE src/assets/icons/icon-152x152.png (1427 bytes)
+CREATE src/assets/icons/icon-192x192.png (1790 bytes)
+CREATE src/assets/icons/icon-384x384.png (3557 bytes)
+CREATE src/assets/icons/icon-512x512.png (5008 bytes)
+CREATE src/assets/icons/icon-72x72.png (792 bytes)
+CREATE src/assets/icons/icon-96x96.png (958 bytes)
+UPDATE angular.json (3997 bytes)
+UPDATE package.json (1389 bytes)
+UPDATE src/app/app.module.ts (604 bytes)
+UPDATE src/index.html (485 bytes)
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 1 package in 14.007s
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>npm install enhanced-resolve@3.3.0 --save-dev
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ enhanced-resolve@3.3.0
+added 3 packages and updated 1 package in 14.06s
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>npm install express path --save
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ path@0.12.7
++ express@4.16.4
+added 2 packages and updated 1 package in 15.178s
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>npm install postinstall --save
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ postinstall@0.4.2
+added 8 packages in 15.414s
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>npm i npm-preinstall
+npm WARN ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ npm-preinstall@1.0.7
+added 12 packages in 19.275s
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>ng build --prod
+
+Date: 2019-02-24T07:29:26.457Z
+Hash: 4f0a03922a1124a3a188
+Time: 46183ms
+chunk {0} runtime.ec2944dd8b20ec099bf3.js (runtime) 1.41 kB [entry] [rendered]
+chunk {1} main.c1776dced2619981a9a9.js (main) 268 kB [initial] [rendered]
+chunk {2} polyfills.e254f6b9bf511460eb6d.js (polyfills) 41 kB [initial] [rendered]
+chunk {3} styles.3ff695c00d717f2d2a11.css (styles) 0 bytes [initial] [rendered]
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>cd dist
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\dist>cd channel-select-pwa
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\dist\channel-select-pwa>cd channel-select-pwa
+The system cannot find the path specified.
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\dist\channel-select-pwa>http-server -o
+Starting up http-server, serving ./
+Available on:
+  http://192.168.230.1:8080
+  http://192.168.92.1:8080
+  http://192.168.43.11:8080
+  http://127.0.0.1:8080
+Hit CTRL-C to stop the server
+[Sun Feb 24 2019 13:00:57 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:01:04 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.6888591016977108" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:01:04 GMT+0530 (India Standard Time)] "GET /index.html?ngsw-cache-bust=0.7040894066991647" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:01:04 GMT+0530 (India Standard Time)] "GET /main.c1776dced2619981a9a9.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:01:16 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:17 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:17 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:17 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:17 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:17 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:17 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:18 GMT+0530 (India Standard Time)] "GET /styles.3ff695c00d717f2d2a11.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:01:18 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.6253631985542689" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:01:22 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.9727452278270878" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:22 GMT+0530 (India Standard Time)] "GET /index.html?ngsw-cache-bust=0.9932403767545028" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:23 GMT+0530 (India Standard Time)] "GET /main.c1776dced2619981a9a9.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:23 GMT+0530 (India Standard Time)] "GET /styles.3ff695c00d717f2d2a11.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:23 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.9331179753062799" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:29 GMT+0530 (India Standard Time)] "GET /home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:29 GMT+0530 (India Standard Time)] "GET /home" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:33 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:33 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:33 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:33 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:33 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:33 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /index.html?ngsw-cache-bust=0.05339659613446068" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:41 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:01:44 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:01:47 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.8658104235910726" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:02:42 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:02:42 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.8767646379102181" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 13:02:58 GMT+0530 (India Standard Time)] "GET /home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:02:58 GMT+0530 (India Standard Time)] "GET /home" Error (404): "Not found"
+[Sun Feb 24 2019 13:03:03 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:03:03 GMT+0530 (India Standard Time)] "GET /assets/js/popper.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:03:03 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:03:03 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.js.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:03:03 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:03:03 GMT+0530 (India Standard Time)] "GET /assets/js/bootstrap.min.css.map" Error (404): "Not found"
+[Sun Feb 24 2019 13:03:14 GMT+0530 (India Standard Time)] "GET /home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 13:03:14 GMT+0530 (India Standard Time)] "GET /home" Error (404): "Not found"
+http-server stopped.
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\dist\channel-select-pwa>cd..
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa\dist>cd..
+
+E:\Code\Java\AngularCLI\Channel-Selection\channel-select-pwa>
